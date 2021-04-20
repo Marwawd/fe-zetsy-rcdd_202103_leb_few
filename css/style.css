@@ -30,4 +30,11 @@ p{font-size: 16px;
 color: #696969;
 }
 .hover:hover {border: 5px solid grey;}
-.wrapper{height:100%;}
+
+#c1, #c2 {
+    width: 33%;
+}
+
+#c3 {
+    width: 44%;
+}
