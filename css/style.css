@@ -23,4 +23,5 @@ height: 100%;
 h1{color: red;}
 /* Write all remaining styles here */
 img {border: 5px solid grey; }
-h2{color: grey;}
+h2{color: grey;
+font-size: 25px;}
