@@ -23,13 +23,12 @@ body {
 h1{color: grey;
 font-size: 95px;}
 /* Write all remaining styles here */
-img {border: 5px solid #C0C0C0; }
+img {border: 5px solid #C0C0C0; :hover {
+
+	border: 5px solid grey;}
 h2{color: grey;
 font-size: 30px;}
 p{font-size: 16px;
 color: #696969;
 }
-img:hover {
 
-	border: 5px solid grey;
-}
