@@ -13,12 +13,12 @@ body {
 	margin: 0;
 
 }
-footer{text-align: right;}
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	padding: 0 45px 20px;
+	padding: 0 65px 20px;
 
 }
 
@@ -31,4 +31,5 @@ font-size: 30px;}
 p{font-size: 16px;
 color: #696969;
 }
+footer{text-align: right;}
 .hover:hover {border: 5px solid grey;}
