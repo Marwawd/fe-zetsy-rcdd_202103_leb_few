@@ -22,4 +22,4 @@ height: 100%;
 
 h1{color: red;}
 /* Write all remaining styles here */
-img {border: 5px solid grey; }
+img,h2 {border: 5px solid grey; }
